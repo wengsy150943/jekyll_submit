@@ -1,0 +1,2 @@
+# jekyll_submit
+对github page中jekyll的lofter模板的一键提交
